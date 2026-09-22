@@ -69,11 +69,12 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="921" height="1293" alt="065f8543-4162-456a-a790-26f8abbf2bd3" src="https://github.com/user-attachments/assets/597f5f96-07ed-4c2d-9e04-4847eee27da4" />
 
 ## Graph
 
-*(Include your own graph relevant to the experiment.)*
+<img width="1200" height="1600" alt="5b9609a2-51a2-4ff3-9551-e111a9d46ea8" src="https://github.com/user-attachments/assets/111abc5b-08f5-4425-aefa-47cf8d9a777e" />
+
 
 ## Precautions
 
@@ -90,4 +91,5 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Conclusion
 
-*(Write your own.)*
+<img width="1280" height="845" alt="16ebff33-8ec7-43e9-a36a-edfb84061e2d" src="https://github.com/user-attachments/assets/db4302f7-c982-40dc-8105-e52774eafc6a" />
+
